@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Apex City Drive 3D",
+  "description": "Realistic 3D open-world city driving simulator with dynamic weather, day/night cycle, drift physics, skid marks, tire smoke, and traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
